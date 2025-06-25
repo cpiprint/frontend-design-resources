@@ -4,6 +4,14 @@ A curated collection of the best resources for frontend development and web desi
 
 ---
 
+## How to Use
+
+- Browse categories for resources you need.
+- Each link is labeled for quick identification.
+- Suggestions are included to expand your toolkit.
+
+---
+
 ## Table of Contents
 
 - [Logos](#logos)
@@ -34,6 +42,7 @@ A curated collection of the best resources for frontend development and web desi
 - [Seeklogo](https://seeklogo.com/) — Large collection of free vector logos in multiple formats.
 - [Logopond](https://logopond.com/) — Creative logo design inspiration and showcase.
 - [Freepik - Logos](https://www.freepik.com/free-logos) — Thousands of free and premium logo vectors.
+- [Simple Icons](https://simpleicons.org/) — SVG icons for popular brands.
 
 
 ---
@@ -45,6 +54,8 @@ A curated collection of the best resources for frontend development and web desi
 - [Font Awesome](https://fontawesome.com/icons) — Popular icon toolkit
 - [Iconify](https://icon-sets.iconify.design/) — Unified icon framework
 - [Feather Icons](https://feathericons.com/) — Simple, clean open-source icons
+- [Lucide](https://lucide.dev/) — Clean, consistent open-source icons
+- [Tabler Icons](https://tabler.io/icons) — Sharp, customizable SVG icon set
 
 ---
 
@@ -231,14 +242,6 @@ A curated collection of the best resources for frontend development and web desi
 ## Bonus: Fun/Utility
 
 - [Readme Typing SVG](https://readme-typing-svg.herokuapp.com/demo/) — Animated typing SVG for README files
-
----
-
-## How to Use
-
-- Browse categories for resources you need.
-- Each link is labeled for quick identification.
-- Suggestions are included to expand your toolkit.
 
 ---
 
