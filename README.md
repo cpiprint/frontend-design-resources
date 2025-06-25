@@ -120,6 +120,7 @@ A curated collection of the best resources for frontend development and web desi
 - [Atomix UI](https://atomix-ui.vercel.app/) — Modern UI components
 - [Radix UI](https://www.radix-ui.com/) — Unstyled, accessible React components
 - [Material UI](https://mui.com/) — Popular React UI framework
+- [NextBunny ](https://nextbunny.co/) — High-quality React components built for Next.js
 
 ---
 
