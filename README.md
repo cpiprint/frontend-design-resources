@@ -121,6 +121,7 @@ A curated collection of the best resources for frontend development and web desi
 - [Radix UI](https://www.radix-ui.com/) — Unstyled, accessible React components
 - [Material UI](https://mui.com/) — Popular React UI framework
 - [NextBunny ](https://nextbunny.co/) — High-quality React components built for Next.js
+- [Zennit ](https://zennitui.com/) — Copy-paste React + Tailwind components straight into your project, no installs, no hassle
 
 ---
 
